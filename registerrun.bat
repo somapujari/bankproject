@@ -1,0 +1,1 @@
+pytest -v -s  C:\Users\Dell\PycharmProjects\bankproject\testcases\test_register.py --browser chrome  --html=.\reports\register.html
