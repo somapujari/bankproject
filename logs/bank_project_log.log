@@ -1,0 +1,47 @@
+test_login is started : INFO : 2023-07-06 14:40:50,454 : test_login : 10
+url opening = https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC  : INFO : 2023-07-06 14:40:50,455 : test_login : 12
+verifying title : INFO : 2023-07-06 14:40:57,833 : test_login : 14
+entering username : INFO : 2023-07-06 14:40:57,966 : test_login : 18
+entering password : INFO : 2023-07-06 14:40:58,122 : test_login : 20
+clicking log in button  : INFO : 2023-07-06 14:40:58,240 : test_login : 22
+verifying title : INFO : 2023-07-06 14:40:59,087 : test_login : 24
+test login failed : INFO : 2023-07-06 14:40:59,096 : test_login : 31
+test reggister started  : INFO : 2023-07-06 14:42:32,940 : test_register : 16
+opening url = https://parabank.parasoft.com/parabank/index.htm : INFO : 2023-07-06 14:42:32,940 : test_register : 18
+entering name : INFO : 2023-07-06 14:42:38,320 : test_register : 23
+enter lastname : INFO : 2023-07-06 14:42:38,420 : test_register : 25
+enter address : INFO : 2023-07-06 14:42:38,499 : test_register : 27
+enter city  : INFO : 2023-07-06 14:42:38,571 : test_register : 29
+enter state : INFO : 2023-07-06 14:42:38,640 : test_register : 31
+enter zipcode : INFO : 2023-07-06 14:42:38,715 : test_register : 33
+enter phone_number  : INFO : 2023-07-06 14:42:38,783 : test_register : 35
+enter username =soma : INFO : 2023-07-06 14:42:38,934 : test_register : 39
+enter password : INFO : 2023-07-06 14:42:39,001 : test_register : 41
+click on register  : INFO : 2023-07-06 14:42:39,149 : test_register : 44
+verifying title : INFO : 2023-07-06 14:42:39,897 : test_register : 46
+test register passed : INFO : 2023-07-06 14:42:39,909 : test_register : 50
+test_register completed : INFO : 2023-07-06 14:42:40,019 : test_register : 56
+test_transfer_fund_001 started  : INFO : 2023-07-06 14:43:49,471 : test_transfer_fund_001 : 22
+opening url = https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC : INFO : 2023-07-06 14:43:49,471 : test_transfer_fund_001 : 24
+enter username : INFO : 2023-07-06 14:43:53,166 : test_transfer_fund_001 : 29
+verifying login page title  : INFO : 2023-07-06 14:43:53,361 : test_transfer_fund_001 : 31
+entering password  : INFO : 2023-07-06 14:43:53,366 : test_transfer_fund_001 : 33
+click login  : INFO : 2023-07-06 14:43:53,493 : test_transfer_fund_001 : 35
+verifying login title  : INFO : 2023-07-06 14:43:54,912 : test_transfer_fund_001 : 38
+click on transfer link  : INFO : 2023-07-06 14:43:54,912 : test_transfer_fund_001 : 41
+enter amount : INFO : 2023-07-06 14:43:56,589 : test_transfer_fund_001 : 44
+from account selecting  : INFO : 2023-07-06 14:43:56,751 : test_transfer_fund_001 : 46
+to account selecting  : INFO : 2023-07-06 14:43:56,826 : test_transfer_fund_001 : 48
+click transfer  : INFO : 2023-07-06 14:43:56,898 : test_transfer_fund_001 : 50
+verifying transfer : INFO : 2023-07-06 14:43:59,032 : test_transfer_fund_001 : 55
+test is passed  : INFO : 2023-07-06 14:43:59,033 : test_transfer_fund_001 : 58
+test register completed : INFO : 2023-07-06 14:43:59,151 : test_transfer_fund_001 : 70
+test_login is started : INFO : 2023-07-06 14:45:04,874 : test_login : 10
+url opening = https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC  : INFO : 2023-07-06 14:45:04,874 : test_login : 12
+verifying title : INFO : 2023-07-06 14:45:08,328 : test_login : 14
+entering username : INFO : 2023-07-06 14:45:08,461 : test_login : 18
+entering password : INFO : 2023-07-06 14:45:08,586 : test_login : 20
+clicking log in button  : INFO : 2023-07-06 14:45:08,707 : test_login : 22
+verifying title : INFO : 2023-07-06 14:45:10,072 : test_login : 24
+test login passed  : INFO : 2023-07-06 14:45:10,084 : test_login : 28
+test login completed : INFO : 2023-07-06 14:45:10,209 : test_login : 34
