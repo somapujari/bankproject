@@ -38,7 +38,7 @@ class Test_Register:
         self.logger.info('enter phone_number ')
         self.rg.phone_number_enter('8888888888')
         self.rg.ssn_enter('123456789')
-        # self.username = self.random_username_generat()
+        self.username = self.random_username_generat()
         self.logger.info(f'enter username ={self.username}')
         self.rg.username_enter(self.username)
         self.logger.info('enter password')
